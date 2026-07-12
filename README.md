@@ -85,8 +85,8 @@ I sincerely thank **IIT Jammu**, the faculty coordinators, mentors, and organize
 **Piyush Bhamare**
 B.Tech – Robotics and Artificial Intelligence
 
-GitHub: `ADD_GITHUB_PROFILE_LINK`
-LinkedIn: `ADD_LINKEDIN_PROFILE_LINK`
+GitHub: `https://github.com/PiyushBhamare123`
+LinkedIn: `www.linkedin.com/in/piyush-bhamare-335577231`
 
 ---
 
